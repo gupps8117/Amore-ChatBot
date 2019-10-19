@@ -32,8 +32,8 @@ english_bot.train(
       "I'm really glad you found us.We can chat to reduce your loneliness and make things easier for you with simple.",
       ]
 )
-english_bot.train(["i want to enlighten my mood","song?"])
-english_bot.train(["bollywood","rabta","hollywood","perfect"])
+#english_bot.train(["i want to enlighten my mood","song?"])
+#english_bot.train(["bollywood","rabta","hollywood","perfect"])
 
 
 @app.route("/")
